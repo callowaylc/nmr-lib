@@ -1,9 +1,9 @@
 {
     "name": "nmr/store",
     "type": "library",
+    "description": "fdsa",
     "require": {
         "php": ">=5.3.0",
-        "guzzle/guzzle": "~3.7"
     },
     "autoload": {
     	"psr-0": {"NMR\\": "src/"}
